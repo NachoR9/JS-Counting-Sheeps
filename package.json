@@ -1,0 +1,25 @@
+{
+  "name": "js-counting-sheeps",
+  "version": "1.0.0",
+  "description": "Instrucciones:",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NachoR9/JS-Counting-Sheeps.git"
+  },
+  "author": "Nacho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NachoR9/JS-Counting-Sheeps/issues"
+  },
+  "homepage": "https://github.com/NachoR9/JS-Counting-Sheeps#readme",
+  "dependencies": {
+    "vitest": "^2.0.2"
+  }
+}
